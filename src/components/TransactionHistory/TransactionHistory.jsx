@@ -1,3 +1,4 @@
+// 
 const TransactionHistory = ({ transactions }) => {
   return (
     <table className="transaction-history">
